@@ -1,4 +1,4 @@
-# 🤖 Peanut Agent - PRO v2.0
+# 🤖 🥜Peanut Agent - PRO v0.1
 
 > **Sistema de Agente Local con IA Avanzado** - Haz que modelos pequeños funcionen como los grandes
 
@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/github/license/smouj/AGENTLOW)](LICENSE)
 [![Docker](https://img.shields.io/docker/pulls/agentlow/agentlow-pro)](https://hub.docker.com/r/agentlow/agentlow-pro)
 
-## 🎯 ¿Qué es AgentLow Pro?
+## 🎯 ¿Qué es 🥜Peanut Agent - Pro?
 
 **AgentLow Pro** es un sistema que hace que modelos de lenguaje pequeños (7B-14B parámetros) funcionen **tan bien como modelos grandes** para tareas de automatización.
 
